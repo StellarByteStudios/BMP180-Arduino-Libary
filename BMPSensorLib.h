@@ -54,7 +54,7 @@
 class BMPSensorHandler{
 
     private:
-        // * * objectvariablen * * //
+        // * * objectvariables * * //
 
         #define BMP085_ADDRESS 0x77
         const unsigned char OSS = 0;  // Oversampling Setting
