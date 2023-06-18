@@ -78,7 +78,7 @@ class BMPSensorHandler{
 
 
 
-        // * * private helpingmethods * * //
+        // * * private helping-methods * * //
 
         // startUp method : always use in the Set-Up of the Arduino 
         void bmp085Calibration();
